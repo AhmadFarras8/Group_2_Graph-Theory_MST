@@ -149,7 +149,7 @@ One valid MST is:
 
 **AI Tool:** ChatGPT
 
-AI was used during the preparation of this assignment to help understand the assignment requirements and to determine whether Borůvka's Algorithm was suitable as the additional MST algorithm.
+AI was used during the preparation of this assignment to help understand the assignment requirements and to determine whether Borůvka's Algorithm was suitable as the additional MST algorithm. The Prompt are listed in the report files.
 
 ### Prompts Used
 
