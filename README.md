@@ -157,10 +157,6 @@ AI was used during the preparation of this assignment to help understand the ass
 
 2. "Is Boruvka's Algorithm usable in this case?"
 
-The AI-generated information was reviewed and used by the group in preparing the assignment.
+3. Make a readme file based on this report.
 
----
 
-## Report
-
-The complete report is available in the `report/` directory.
