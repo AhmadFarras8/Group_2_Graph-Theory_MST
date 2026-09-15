@@ -3,7 +3,7 @@
 
 ### Group Members
 
-| No. | Name                         | Student ID   |
+| No. | Name                         | NRP          |
 | --: | ---------------------------- | ------------ |
 |   1 | Ahmad Farras Favian Al Efasi | 5025251005   |
 |   2 | Daniel Pedrosaputra          | 5025251171   |
@@ -149,13 +149,14 @@ One valid MST is:
 
 **AI Tool:** ChatGPT
 
-AI was used during the preparation of this assignment to help understand the assignment requirements and to determine whether Borůvka's Algorithm was suitable as the additional MST algorithm.
+AI was used during the preparation of this assignment to help understand the assignment requirements and to determine whether Borůvka's Algorithm was suitable as the additional MST algorithm. 
 
 ### Prompts Used
 
 1. "Explain to me what I must do for the assignment [Refurbished W2 Tree and Spanning.pdf]."
 
-2. "Is Boruvka's Algorithm usable in this case?"
+2."Is Boruvka's Algorithm usable in this case?"
+3. Make a readme.md file based on this report.
 
 The AI-generated information was reviewed and used by the group in preparing the assignment.
 
